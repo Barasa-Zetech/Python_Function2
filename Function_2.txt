@@ -1,0 +1,10 @@
+#### Function Method_2
+###Python pragram to calculate perimeter of a rectangle;
+
+def rectangle(length, width):
+
+    perimeter = (length + width) * 2
+
+    return perimeter
+
+print(rectangle(10, 20))
